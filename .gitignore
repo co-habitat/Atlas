@@ -1,0 +1,13 @@
+
+scripts/01_data_collection/03_building_height.py
+scripts/01_data_collection/03_ecologicalNetwork.py
+scripts/01_data_collection/03_greenPublic.py
+scripts/01_data_collection/03_light.py
+scripts/01_data_collection/03_noise.py
+scripts/01_data_collection/03_protectedHabitats.py
+scripts/01_data_collection/03_streets.py
+scripts/01_data_collection/03_trees.py
+scripts/01_data_collection/03_urbanGardens.py
+scripts/01_data_collection/03_vegetCover.py
+scripts/01_data_collection/03_water.py
+scripts/01_data_collection/04_habitats.py

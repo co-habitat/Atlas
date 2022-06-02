@@ -1,0 +1,7 @@
+owslib
+pandas
+numpy
+shapely
+fiona
+pyproj
+geopandas
